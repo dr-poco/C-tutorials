@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1620468232 source:d:\c\modifier_extern\other.c
+
+1620468398 source:d:\c\modifier_extern\main.c
+	<stdio.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1620473462 source:d:\c\modifiers_static\add.c
+
+1620473507 source:d:\c\modifiers_static\main.c
+	<stdio.h>
+	<stdlib.h>
+
